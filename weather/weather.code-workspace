@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "weather",
+			"path": "../../weather"
+		},
+		{
+			"name": "rule engine",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
